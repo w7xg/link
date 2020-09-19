@@ -2,7 +2,7 @@
 
 # Windows7小耿的博客
 
-![](https://w7xg.ml/img/1.JPG)
+<a href="https://w7xg.tk"><img src="img\1.JPG"></a>
 
 ### 请收藏我们的网址https://w7xg.tk
 
